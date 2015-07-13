@@ -11,3 +11,5 @@ go build gomitreid.go
 
 In your browser: http://localhost:8080/
 
+Note: this implementation is missing the token validation (future)
+
